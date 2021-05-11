@@ -4,5 +4,4 @@
 * more pepper
 * more salt 
 * cilantro
-<<<<<<< HEAD
 * I like cilantro
